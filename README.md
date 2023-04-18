@@ -1,4 +1,4 @@
-# RankShop
+# RankShopUI
 
 A plugin create by NuthMC for buy rank and easy to setup it without config.
 
