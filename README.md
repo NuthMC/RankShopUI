@@ -1,6 +1,6 @@
-# NuthMC-RankShop
+# RankShop
 
-A plugin for buy rank and easy to setup it without config.
+A plugin create by NuthMC for buy rank and easy to setup it without config.
 
 # Feature
 * You can add rank you want to shop
