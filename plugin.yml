@@ -1,4 +1,4 @@
-name: NuthMCRankShop
+name: RankShop
 main: nuthmc\rankshop\Loader
 api: 4.0.0
 version: 1.0.0
