@@ -1,0 +1,16 @@
+name: NuthMC-RankShop
+main: nuthmc\rankshop\Loader
+api: 4.0.0
+version: 1.0.0
+author: NuthMC
+
+permissions:
+  rankshop.add:
+    default: op 
+    description: 'use to add rank'
+  rankshop.edit:
+    default: op 
+    description: 'use for edit rank'
+  rankshop.remove:
+    default: op 
+    description: 'use for remove rank'
